@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">HairSalon2</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_login">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_in_next">Next</string>
+    <string name="error_invalid_login">This login is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="registration_login">Registration</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="input_name">Name</string>
+    <string name="input_last_name">Last name</string>
+    <string name="input_email">Email Adress</string>
+    <string name="input_phone">Phone number</string>
+    <string name="input_password">Password</string>
+    <string name="input_password2">Re-type Password</string>
+    <string name="error_name">Please enter your Name</string>
+    <string name="error_last_name">Please enter your Last Name</string>
+    <string name="error_email">Please enter your Email Adress</string>
+    <string name="error_invalid_email">Email must contain "@"</string>
+    <string name="error_phone">Please enter your Phone</string>
+    <string name="error_invalid_phone">Phone Number must contain "+972"</string>
+    <string name="error_password">Please enter your Password</string>
+    <string name="error_re_typepassword">Please enter Re-type Password</string>
+    <string name="error_invalid_second_password">Please enter same Password</string>
+
+    <string name="title_activity_private_account">PrivateAccountActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
